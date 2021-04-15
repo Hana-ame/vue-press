@@ -8,3 +8,5 @@ lang: en-US
 [已购](/作品.html)
 
 [已汉化](/汉化.html)
+
+![](https://twimg.hana-sweet.top/media/ExjeJVeVoAYesug?format=jpg&name=large)
